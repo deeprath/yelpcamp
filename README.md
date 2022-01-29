@@ -31,7 +31,17 @@ Here is a working copy of Website: https://agile-reaches-28406.herokuapp.com/ <b
       </li>
     </ul> 
   </li>
-  <li><h3>Finally running locally app</h3>
+  <h3>Creating account on cloudinary, mongodb atlas and mapbox.</h3>
+  <h4>mogodb atlas is required if you want to host your database on cloud.</h4>
+    <ul>
+      <li>Create a .env file and store your access credentials/Tokens</li>
+      <code>CLOUDINARY_CLOUD_NAME=put_your_cloud_name</code>
+      <code>CLOUDINARY_KEY=put_your_key</code>
+      <code>CLOUDINARY_SECRET=put_your_secret_key</code>
+      <code>MAPBOX_TOKEN=put_your_token</code>
+      <code>DB_URL=connect_to_mongodb_atlas_with_your_password-follow_the_mongodb_instructions.</code>
+    </ul>
+  <li><h3>Finally running localy or on cloud app</h3>
   <ul>
     <li>Run the Mongo Configuration File you Created above</li>
     <code>./mongod</code>
