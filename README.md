@@ -1,6 +1,6 @@
 # yelpcamp
 This repository contains a Simple camping ground Website where you can post, comment, get information about experiences, price.<br>
-This Website is Developed using Nodejs,Bootsrap and MongoDB.<br>
+This Website is Developed using Nodejs,Bootstrap and MongoDB.<br>
 This is a Study Project.<br>
 You can Contribute, Comment and give Suggestions for the betterment of the Project.<br>
 Thank You !!!<br>
